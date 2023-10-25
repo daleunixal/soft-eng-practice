@@ -2,6 +2,7 @@
 
 ## О МОДЕЛИ ## 
 
+https://huggingface.co/gianlab/swin-tiny-patch4-window7-224-finetuned-ecg-classification
 Модель работает с изображением ЭКГ размером 224px, 224px и имеет возможность классифицировать данные по следующим типам: 
 
 Классифицированные данные:
